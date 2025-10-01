@@ -1,7 +1,7 @@
 FYP: CarStop
 
-There are 2 folders inside this zip file:
-- CarStop
+There are 2 main parts in this repository:
+- Code for CarStop
 - Python Script for Raspberry Pi
 
 To run the CarStop app, you must first have android studio.
@@ -16,3 +16,5 @@ You need to update and install python libraries.
 Install firebase admin sdk.
 Install the virtual environment tool and create a virtual environment
 Then you can run the script.
+
+There is an images folder where pictures of the setup can also be founds.
