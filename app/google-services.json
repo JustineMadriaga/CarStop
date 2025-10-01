@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956734425768",
+    "project_id": "carstop-b1c30",
+    "storage_bucket": "carstop-b1c30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956734425768:android:e1311a9f741efb9bbc509d",
+        "android_client_info": {
+          "package_name": "ie.tus.mad.carstop1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wf392nU2KyoOwQenpoW9l8MSB-opaCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
